@@ -1,0 +1,47 @@
+.layers-control {
+  padding-top: 5px;
+  border-radius: 5px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background-color: rgba(0,0,0, 0.75);
+color: white;
+  width: 195px;
+}
+.layers-control ul {
+  color: red;
+  font-weight: bold;
+  list-style-type: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: right;
+  font:20px/1.5 Arial, Helvetica, sans-serif;
+}
+#Sub2
+{
+  height: 250px;
+  overflow: hidden;
+}
+#Sub2:hover
+{
+    overflow: auto;
+}
+.layers-control span {
+  color: white;
+  font: 16px/1.5 Arial, Helvetica, sans-serif;
+  padding: 5px;
+  }
+.layers-control li {
+text-align: right;
+  color: #000000;
+  margin-right:5px
+}
+.layers-logo {
+  padding-top: 5px;
+  border-radius: 5px;
+  position: absolute;
+  left: 2px;
+  top: 10px;
+  background-color: rgba(0,0,0, 0);
+  color: white;
+}
